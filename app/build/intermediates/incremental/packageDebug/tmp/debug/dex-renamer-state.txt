@@ -1,0 +1,4 @@
+#Sat Jul 15 23:02:29 BDT 2023
+base.0=F\:\\Moeid\\Moied\\ganPlayer-android-music-app-Java-main\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
